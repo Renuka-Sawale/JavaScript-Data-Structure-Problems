@@ -7,4 +7,4 @@ for (let num = 1; num <= 100; num++) {
         index++;
     }
 }
-console.log("Repeated digits are: " + numArray);
+console.log("Repeated digits are: " + numArray); 
